@@ -1,0 +1,12 @@
+[
+    {
+        "name": "administrator",
+        "display_name": "administrator",
+        "description": "Website administrator"
+    },
+    {
+        "name": "user",
+        "display_name": "user",
+        "description": "Website user"
+    }
+]

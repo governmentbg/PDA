@@ -1,0 +1,10 @@
+<?php
+
+return [
+    'MATOMO_URL' => env('MATOMO_URL', false),
+    'MATOMO_SITE_ID' => env('MATOMO_SITE_ID', 1),
+    'MATOMO_TOKEN' => env('MATOMO_TOKEN', false),
+    'MATOMO_COUNTER_CACHE_TTL' => env('MATOMO_COUNTER_CACHE_TTL', 30),
+    'MATOMO_TIMEOUT' => env('MATOMO_TIMEOUT', 1.2),
+    'MATOMO_CONNECT_TIMEOUT' => env('MATOMO_CONNECT_TIMEOUT', 0.4),
+];
